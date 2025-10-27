@@ -1,0 +1,523 @@
+article_name,text
+Outseer_Fraud_and_Payments_Report_Q3_2021,"Q3 2021
+Digital Transaction Insights
+from the Outseer Global
+Data NetworkTM
+Table of Contents
+Executive Summary 3
+Part 1: Fraud Attack Trends 5
+Fraud Attack Type Distribution 6
+Top Phishing Target Countries 7
+Top Phishing Hosting Countries 8
+Compromised Cards Discovered/Recovered by Outseer 9
+Part 2: Digital Banking Trends 10
+Transaction Distribution by Channel 11
+Fraudulent Transactions Distribution by Channel 12
+Credit Cards & Digital Payments: Average Transaction and Fraud Transaction Values 13
+Device Age vs. Account Age 14
+Part 3: CNP & Digital Payments Trends 15
+3-D Secure Transaction Trends 16
+Global EMV® 3DS Transaction Volume Trends 17
+Feature Article: Get Ready for Cybersecurity Awareness Month 18
+Outseer Fraud & Payments Report: Q3 2021 2
+Internal Use -Confidential
+Executive
+Summary
+The OutseerTM Fraud & Payments Report
+presents a global analysis of fraud attacks
+based on consumer fraud data collected by
+the Outseer team. It provides insight into the
+cyber fraud landscape for consumer-facing
+organizations of all sizes and categories.
+OOuuttsseeeerr FFrraauudd && PPaayymmeennttss RReeppoorrtt:: QQ33 22002211 3
+Internal Use -Confidential
+EXECUTIVE SUMMARY
+Outseer-observed Fraud
+Attacks and Consumer Trends
+Q2 2021 highlights:
+• The Outseer FraudAction™ team detected more than 49,000 fraud attacks
+during Q2 2021
+• For the third quarter in a row, brand abuse continues to be the most prevalent
+attack vector observed by Outseer. Fraudsters are leveraging social media to
+harvest users' credentials and personally identifiable information (PII)
+• The number of rogue mobile apps uploaded to popular app stores spiked 66%
+in Q2, up 140% from the same period last year (Q2 2020). Cybercriminals
+create imposter banking apps to infect consumers’ devices with malware
+capable of harvesting user credentials for use in account takeover attacks
+• Outseer recovered more than 4.5 million unique compromised cards and card
+previews from elicit marketplaces and communications channels in Q2 2021
+• 70% of fraudulent digital banking transactions originated in the mobile channel
+during Q2, with mobile banking app fraud accounting for the largest increases
+• In 2021, Outseer processed more than $100 billion in payment volume through
+its Outseer 3-D SecureTM (3DS) product. Share of EMV® 3-D Secure (3DS)
+usage continues to show strong growth across all geographic regions
+OOuuttsseeeerr FFrraauudd && PPaayymmeennttss RReeppoorrtt:: QQ33 22002211 4
+Internal Use -Confidential
+PART 1
+Fraud Attack
+Trends
+Digital transformation is reshaping nearly every facet
+of our lives – how we live, how we shop and who we
+trust. As new digital models scale, organizations
+must be prepared for the potential risks and
+challenges that may come with them.
+Based on data analyzed by the Outseer Data
+Science and Research teams, a number of notable
+fraud activities have been identified across attack
+vectors and spanning all digital channels.
+By tracking and reporting the volume and regional
+distribution of these fraud threats, Outseer seeks to
+help build awareness about the current state of
+cybercrime and advance the conversation about
+combating it more effectively.
+OOuuttsseeeerr FFrraauudd && PPaayymmeennttss RReeppoorrtt:: QQ33 22002211 5
+Internal Use -Confidential
+Fraud Attacks Worldwide
+FRAUD ATTACK TRENDS: OVERVIEW
+Fraud Attack Type Distribution
+49%
+Outseer identified over 49,000 attacks worldwide in Q2 2021. For the Brand Abuse
+third consecutive quarter, brand abuse attacks were the most
+dominant attack vector observed by Outseer, representing about half
+of all attacks.
+30%
+The growth and prevalence of brand abuse mirrors the increased use
+Rogue Mobile
+of digital platforms. Social media sites, the web, and cloud-based apps
+collaboration tools utilized by consumers and organizations are all
+fertile hunting ground for fraudsters. As digital transformation
+continues to accelerate, brand abuse is likely to proliferate and
+become more sophisticated.
+3%
+Trojans
+18%
+100,000+
+Phishing
+Attacks detected in 2021
+Source: Outseer Research April –June 2021
+Fraud Attack Glossary
+Rogue mobile apps accounted for 30% of all attacks seen by Outseer
+in Q2 2021 –a spike of 66% in just 90 days. That’s also a 140%
+Brand Abuse
+increase over the same quarter last year (Q2 2020). This growth may Online content designed to impersonate trusted brands with the
+be attributable to consumers’ increasing use of mobile banking apps, purpose of misleading users in digital channels such as social media.
+as fraudsters look to monetize this trend.
+Phishing
+Fraudsters create phony banking apps and upload them to app stores Cyberattacks used to steal personal information from unwitting end-
+to infect consumers’ devices with malware capable of harvesting user users under false pretenses, either by email, phone call (vishing) or
+credentials for use in account takeover schemes. Organizations SMS text (smishing).
+should consider monitoring authorized and unauthorized app stores or
+use third-party monitoring and detection services to protect their Rogue Mobile Apps
+brands and their customers. Malicious mobile applications that exploit an organization’s brand to
+defraud users.
+Phishing activity remains prominent worldwide, representing 18% of
+Trojan Horse
+all attacks. Meanwhile, Trojan attacks continue to decline,
+Stealthy malware installed under false pretenses in order to steal
+representing only 3% of the total, as criminals continue to shift attack
+personal user information.
+strategies.
+Source: Outseer FraudAction Research
+Outseer Fraud & Payments Report: Q3 2021 6
+FRAUD ATTACK TRENDS
+Q2 2021 Top Phishing Target Countries
+NETHERLANDS
+6
+%
+IRELAND
+CANADA 3 %
+12%
+UNITED
+STATES SPAIN
+12% CHINA
+14% 5
+%
+PHILIPPINES
+INDIA
+3 % 12%
+Phishing Targets
+South Africa, the United States, and Spain
+PERU
+remain the top three countries targeted in 3
+%
+SOUTH AFRICA
+phishing attacks. This is similar topatterns
+16%
+seen in Q1 2021. Canada, however, dropped
+from first to fifth most targeted country in
+Q2 2021.
+ALL OTHERS*
+14%
+It appears that the large breach announced by
+Experian1in August 2020 continued to fuel
+phishing attacks targeting South Africa.
+*All Others -all other countries represented
+China joined the top-10 list of targeted <3% of total Phishing targets, respectively
+countries with 5% of the phishing attacks in
+Q2. India dropped from fifth to tenth place in
+our list of top-10 targeted countries; attacks
+targeting India dropped 47% in Q2 from Q1
+this year.
+Outseer Fraud & Payments Report: Q3 2021 7
+FRAUD ATTACK TRENDS
+Q2 2021 Top Phishing Hosting Countries
+Phishing Hosts
+6 Malaysia
+The United States has remained the
+1 United States
+top country of origin for phishing
+attacks since 2017, accounting for
+72.5% of ISPs hosting these types of
+7 United Kingdom
+2 India attacks. This is largely attributable to a
+handful of large-scale hosting
+authorities,whose sheer scale can
+make it easy for fraudulent activity to 8 Brazil
+3 Germany
+go undetected.
+India moved from third place in Q1 to
+9 Indonesia
+second place in Q2 as home to almost
+4 Russia
+6% of all phishing attacks worldwide.
+Germany dropped from second to third
+place in Q2, hosting over 3% of all
+10 Hong Kong
+5 France phishing attacks.
+For most of the other countries in the
+top 10, the percentage hosting
+phishing attacks is in the low single
+digits.
+Outseer Fraud & Payments Report: Q3 2021 8
+FRAUD ATTACK TRENDS
+Compromised Cards
+Cards Recovered by Month
+Discovered/Recovered by Outseer
+During the second quarter of 2021, Outseer recovered over 4.5 million
+unique compromised cards and card previews from elicit marketplaces
+and communications channels.
+On average, Outseer recovered more than 50,000 cards a day!
+622,993
+The OutseerFraudAction™service discovers CVV2-related data,
+which is card data compromised through cyberattacks targeting online
+transactions or e-commerce. This type of data can be exploited in a
+variety of fraudulent activities, including “carding,” which refers to
+using compromised cards to buy goods both in physical stores and
+on e-commerce websites. 893,352
+3,025,489
+April May June
+10 Million (H1)
+Compromised cards & card previews Source: Outseer FraudAction Research April –June 2021
+recovered in first half of 2021
+Outseer Fraud & Payments Report: Q3 2021 9
+PART 2
+Digital Banking &
+Payments Trends
+Outseer researchers analyze digital banking & payments fraud
+trends to inform security and risk management decisions at
+major organizations. These efforts also serve the public interest
+by identifying, preventing, or reducing financial cyber fraud
+attacks targeting consumers. Observing these trends over time
+can help decision-makers determine how best to build or refine
+their digital risk management strategies across customer-facing
+digital channels and digital payments.
+This data is intended to broadly frame the current consumer
+fraud environment and identify relevant trends by tracking broad
+indicators of digital fraud across both financial and e-commerce
+focus areas.
+OOuuttsseeeerr FFrraauudd && PPaayymmeennttss RReeppoorrtt:: QQ33 22002211 10
+Internal Use -Confidential
+Transaction Distribution by Digital Channel
+DIGITAL BANKING & PAYMENTS TRENDS
+Digital Banking
+15%
+Transactions
+28% 28% 29% 30%
+Distribution by Channel
+35%
+68%
+Mobile banking continues to be the 70%
+74%
+dominant engagement method for
+25%
+26%
+consumers. Today, 77% of digital banking 27%
+transactions originate within the mobile 33%
+channel –including mobile browsers and
+mobile apps. The average size of a digital
+banking transaction originating in the
+mobile channel was $550 in Q2 2021.
+In contrast, the average size of
+transactions originating from the standard 8%
+7%
+web channel was $5,700 in Q2 2021. This 50% 3%
+47% 45% 44%
+suggests that consumers are more
+37%
+comfortable performing higher value
+transactions from a desktop / laptop. In
+24% 23% 23%
+some cases, financial institutions may also
+have different transaction limits based on
+product, device, and/or channel.
+Q3 2019 Q4 2019 Q1 2020 Q2 2020 Q3 2020 Q4 2020 Q1 2021 Q2 2021
+Web Mobile Browsing Mobile App
+Source: Outseer Research Q3 2019-Q2 2021
+Outseer Fraud & Payments Report: Q3 2021 11
+Fraud Transaction Distribution by Channel
+DIGITAL BANKING & PAYMENTS TRENDS
+Digital Banking
+Fraudulent Transaction
+13%
+Distribution by Channel 18%
+26% 26%
+The share of fraudulent transactions
+originating via mobile channels continues to 43% 44%
+47%
+trend upward, growing to 70% in the second
+20% 55%
+quarter of 2021 (up from 63% during the
+preceding three months). With consumers
+increasingly transacting in the mobile
+channel, fraudsters are quick to follow.
+59%
+During the second quarter, the average 43%
+46%
+value of a fraudulent online banking 13%
+transaction (for example: money transfer, 24% 16%
+ACH, P2P, Wire) was $1,616 for the mobile
+channel and $5,158 for the web channel. 15%
+62%
+43%
+37%
+33%
+31% 30%
+28% 28%
+70%
+Q3 2019 Q4 2019 Q1 2020 Q2 2020 Q3 2020 Q4 2020 Q1 2021 Q2 2021
+of fraudulent digital banking Web Mobile Browsing Mobile App
+transactions originated within the
+Source: Outseer Research Q3 2019-Q2 2021
+mobile channel
+Outseer Fraud & Payments Report: Q3 2021 12
+Average Credit Card Transaction Values
+$267
+$194
+DIGITAL BANKING & PAYMENTS TRENDS
+$186
+$183
+Credit Cards & Digital Payments:
+$171
+Average Transaction and Fraud
+$160
+$157 $158
+Transaction Values
+The most notable change from Q1 to Q2 this year was in Australia/New
+Zealand where the average fraudulent transaction value dropped over 40%
+from $327 in Q1 to $194 in Q2.
+In the Americas, the average transaction value increased almost 18% from
+Q1 2021 and the average fraudulent transaction value increased 28%.
+Changes in the value of transactions might be attributable to adoption of
+3DS by new merchants. For example, adoption of 3DS by travel websites
+with high-dollar purchases might see increased averages for both
+legitimate and fraudulent transactions.
+Americas EU UK ANZ
+Average Transaction Value Average Fraud Value
+Source: Outseer Research April-June 2021
+OOuuttsseeeerr FFrraauudd && PPaayymmeennttss RReeppoorrtt:: QQ33 22002211 13
+Internal Use -Confidential
+E-Commerce
+75.2%
+DIGITAL BANKING & PAYMENTS TRENDS 69.8%
+Device Age vs. Account Age
+Analysis
+“Device Age” refers to how long the Outseer Platform has “known” or
+10.5% 12.0%
+“trusted” a given device (laptop, smartphone, etc.). “Account Age” refers 4.1% 2.6%
+to how long the Outseer platform has “known” or “trusted” a given
+account (login, etc.). This data demonstrates the importance of accurate New Account/New Device Trusted Account/Trusted Device Trusted Account/New Device
+device identification to minimize false positives and customer friction
+during a login or transaction event.
+Digital Banking Login
+E-Commerce
+In Q2 2021, fraudulent transaction value originating from a new device
+57.5%
+and a trusted account surged 75.2% from 70.9% in Q1 2021. This is the
+50.5%
+third quarter in a row that we report an increase in this category which is
+reflective of the proliferation of account takeover attacks.
+10.4%
+Digital Banking: Login
+5.8%
+The percentage of total logins from a new device and a new account 0.2% 2.3%
+went down 33%—while the percentage of fraudulent transactions from
+New Account/New Device Trusted Account/Trusted Device Trusted Account/New Device
+such devices and accounts rose 35%. Meanwhile, login volumes from
+new devices and trusted accounts decreased from 12.2% in Q1 to
+10.4% in Q2. During this same period, overall fraud decreased from
+Digital Banking Payments
+66.1% in Q1 to 57.5% in Q2 in this category showing relatively stable
+trend in account takeover at login. This might be a result of
+organizational security policies that will only take action against a 52.9%
+suspected fraud in the event of transaction activity vs. merely logging 43.9%
+into a trusted account. Fraud from trusted account and trusted device
+30.9%
+decreased from 9.3% in Q1 to 5.8% in Q2.
+15.1%
+Digital Banking: Payment 0.1% 0.7%
+Digital Banking Payment transactions from trusted devices and trusted
+New Account/New Device Trusted Account/Trusted Device Trusted Account/New Device
+accounts were the same in Q2 and Q1 this year (0.1%) yet fraud in this
+category was cut in half from 1.4% in Q1 to 0.7% in Q2 . The
+percentage of payment transaction volume from new devices using
+“NEW ACCOUNT”: ACCOUNT AGE < 1D
+trusted accounts decreased from 16.9% in Q1 to 15.1% in Q2 but fraud
+% of transaction volume
+in this category increased 52% from 20.3% in Q1 to 30.9% in Q2 “TRUSTED ACCOUNT”: ACCOUNT AGE >= 90D
+reflecting the continuous growth in account takeover trend. “NEW DEVICE”: ACCOUNT-DEVICE AGE < 1D % of fraud value
+“TRUSTED DEVICE”: ACCOUNT-DEVICE AGE >= 30D
+Source: Outseer Research April-June 2021
+PART 3
+CNP & Digital
+Payments Trends
+The acceleration of digital adoption
+stemming from the pandemic led to a
+surge in online transactions and digital
+payments. But it also introduced fraud risks
+that should be managed and mitigated to
+allow for a secure and frictionless
+cardholder experience.
+This section includes trends in 3-D Secure
+Card Not Present (CNP) transactions as
+observed by the Outseer team.
+OOuuttsseeeerr FFrraauudd && PPaayymmeennttss RReeppoorrtt:: QQ33 22002211 15
+Internal Use -Confidential
+Outseer 3-D SecureTM Global Transactions
+CNP & DIGITAL PAYMENTS TRENDS
+3-D Secure transactions trends
+Over the last 18 months Outseer has seen 79%
+growth
+dramatic growth in usage of EMV® 3-D Secure
+(3DS) protocol, with total Outseer 3-D SecureTM
+transactions growing more than 79% from Q1 2020
+to Q2 2021.
+Our research team expects growth in Outseer 3-D
+Secure to continue into Q3 and Q4 2021, due to
+the continued transition to, and scaling of, digital
+payment worldwide and the upcoming holiday
+shopping season.
+QQ11- 22002200 QQ22- 22002200 QQ33 -22002200 QQ44 -22002200 QQ11 2-2002211 QQ22 2-0202211
+Source: Outseer Research Q1 202-Q2 2021
+OOuuttsseeeerr FFrraauudd && PPaayymmeennttss RReeppoorrtt:: QQ33 22002211 16
+Internal Use -Confidential
+CNP & DIGITAL PAYMENTS TRENDS
+Growth of EMV® 3DS Transactions Share
+Global EMV® 3-D Secure (3DS)
+Transaction Trends
+Outseer continues to observe increased growth in EMV® 3-D
+Secure (3DS)* transaction volumes across all geographies. Outseer 46%
+saw the most significant increases in the United Kingdom (U.K.)
+and across the rest of Europe (EU), where EMV® 3DS’ share of
+total 3DS transactions grew to 46% in Q2 2021. This trend is likely
+to continue as the PSD2 mandates for Strong Customer
+37%
+Authentication (SCA) drive greater acceptance and adoption of the
+35%
+EMV® 3-D Secure protocol.
+32%
+The Americas have also seen quarter-on-quarter growth in the
+29%
+share of 3DS-enabled transactions made using EMV® 3DS, which
+topped 37% in Q2 2021.Similarly, Australia / New Zealand (ANZ) 26%
+25%
+have experienced similar trends in the growth of EMV® 3DS usage.
+These global growth trends were likely fueled by the overall growth
+in CNP transactions and digital payments, as well as the migration
+from legacy 3DS to the latest EMV® 3DS versions. 16%
+14%
+10%
+*EMV® 3-D Secure (3DS) includes all 3DS 2.x transactions 7%
+4%
+Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2
+Adoption of EMV® 3DS by merchants 2020 2020 2021 2021 2020 2020 2021 2021 2020 2020 2021 2021
+and card issuers helps increase
+Americas ANZ UK + EU
+transaction approval rates and drive-up
+revenue and profitability.
+Note: Represents % of total Outseer 3-D Secure transactions that are EMV® 3DS
+Source: Outseer Research Q1 2020 –Q2 2021
+OOuuttsseeeerr FFrraauudd && PPaayymmeennttss RReeppoorrtt:: QQ33 22002211 17
+Internal Use -Confidential
+FEATURE ARTICLE
+Get Ready for
+Cybersecurity
+Awareness Month
+Are you regularly interacting with your
+bank and communicating through
+digital channels? Are you using your
+mobile device to order ahead or to
+have your favorite foods delivered to
+your door? If the answer is “yes” to any
+of these questions, then you may be at
+heightened risk of a cyberattack.
+October marks Cybersecurity
+Awareness Month, a global effort
+aimed at raising awareness about the
+importance of cybersecurity. To
+support this effort, the Outseer team
+would like to share a few best
+practices for protecting your
+organization, your customers, and
+yourself from financial fraud.
+Outseer Fraud & Payments Report: Q3 2021 18
+FEATURE ARTICLE
+Get Ready for Cybersecurity Awareness Month
+Fighting Fraud: Outseer Best Practices
+Define your fraud and risk management strategy – Raise universal awareness –
+Ideally, solutions should be built to protect all digital channels and As fraudsters evolve their strategies, it is
+current payment types. They should also provide flexibility to important to educate your customers,
+support various digital commerce models such as buy online, pick employees, and business partners on the
+up in-store (BOPIS) or buy on mobile, pick-up curbside, as well as latest potential threats and what types of
+additional new payment models as they are introduced. The best scams to look out for. It is particularly
+solutions will also provideproven capabilities to detect and stop important to be aware of fraudsters’
+fraud –but do so in a way that maintains a seamless experience attempts to manipulate daily
+for the end user. communications, messaging, and other
+digital interactions.
+Employ multiple layers – Promoteshared responsibility –
+A good approach includes multiple layers to protect all of the steps Fighting fraud as a community will help
+in the customer journey. There is no one “foolproof” solution. contribute to faster and more accurate
+Mitigate different attack vectors, such as brand abuse, phishing or fraud detection and prevention. Outseer
+rogue mobile apps, with the appropriate tools to protect your brand introduced the Outseer Global Data
+and your customers. NetworkTMover a decade ago –the first
+global consortium of fraud and transaction
+Take a risk-based approach – data, with thousands of contributors
+For organizations executing a balanced strategy of risk and worldwide.
+experience, protect your transactions with risk-based
+authentication. One of the significant improvements in the latest Developing a plan to address these steps
+EMV® 3-D Secure protocol is the incorporation of a risk-based will help you, your customers, and your
+approach –one that Outseer has been pioneering for over a organization fight fraud. If you would like
+decade. This allows legitimate cardholders to transact without to receive more information or discuss
+interruption and improves cardholder trust and loyalty. strategies on how to implement best
+practices to protect your customers and
+For those few, higher risk transactions that require additional organization against fraud, please contact
+verification, use strong step-up authentication options. It is also the Outseer Team at:
+recommended to use dynamic data elements so that in the event
+https://www.outseer.com/contact-us/
+data is compromised, it is rendered useless for future transactions.
+OOuuttsseeeerr FFrraauudd && PPaayymmeennttss RReeppoorrtt:: QQ33 22002211 19
+Internal Use -Confidential
+Outseer empowers the digital economy to grow by authenticating
+billions of transactions annually. Our payment and account
+monitoring solutions increase revenue and reduce customer friction
+for card issuing banks, payment processors, and merchants
+worldwide. With more than 20 billion annual transactions and 1000+
+global institutions contributing to the Outseer Global Data Network,
+our identity-based science delivers the highest fraud detection rates
+and lowest customer intervention in the industry.
+www.outseer.com
+1 Experian “Experian Data Breach”
+©2021 RSA Security LLC or its affiliates. All rights reserved. RSA and the RSA
+logo are registered trademarks or trademarks of RSA Security LLC or its affiliates
+in the United States and other countries. All other trademarks are the property of
+their respective owners. RSA believes the information in this document is accurate.
+The information is subject to change without notice. Published in the USA. 6/21"
