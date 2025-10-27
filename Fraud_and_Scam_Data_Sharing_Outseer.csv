@@ -1,0 +1,1215 @@
+article_name,text
+Fraud_and_Scam_Data_Sharing_Outseer,"W H I T E P A P E R
+Fraud and Scam
+Data Sharing Around
+the World
+WRITTEN BY
+Ken Palla | Palla Consulting
+ABOUT THE AUTHOR
+KEN PALLA
+Since 2005, Ken has been in Online Security. He was a Director at MUFG
+Union Bank, retiring in early 2019. At MUFG Union Bank, he managed
+the online security for both commercial and retail customers. Ken was
+an advisor to the RSA eFraud Global Forum and a Program Committee
+member for the annual San Francisco RSA Conference. In 2019, he
+received the Legends of Fraud Award. Since 2019, he has been writing
+about consumer financial scams and how financial institutions around
+the world are adding controls and sometimes providing reimbursement.
+He is currently consulting for banks and online security vendors and on
+the Knoble Scam Committee.
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+2
+CONTENTS
+Introduction � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � 4
+Executive Summary � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � 5
+Fraud and Scam Data Sharing � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � 6
+Top Data Sharing Countries � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � 6
+United Kingdom . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+Australia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .9
+Other Countries � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � 11
+Canada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+European Union . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+Hong Kong . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+India . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+Malaysia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+New Zealand . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+Philippines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+Singapore . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+South Africa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .20
+Thailand . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+United States . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22
+Regional Data Sharing � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � 24
+Consortium Data Sharing � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � 24
+Other Data Sharing � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � 25
+Global Anti-Scam Alliance (GASA) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .25
+Banks and Telcos Data Sharing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .25
+Payment Network Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26
+Conclusion � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � 27
+Notice: This white paper should not be construed as offering legal advice about data sharing. Readers should consult
+attorneys in each country for legal advice about data sharing.
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+3
+INTRODUCTION
+This whitepaper was conceived as a way to highlight the level of bank fraud and scam data sharing that
+exists around the world. It looks at the various ways data sharing can occur:
+• Banks sharing fraud and scam data among banks
+• National Anti-Fraud/Scam Centers that share data between banks, the government, and other
+key participants
+• Vendor consortiums that share fraud signals within the vendor customer base
+• Payment systems operators sharing network fraud/scam signals
+• Government coordinated data sharing (e.g., MuleHunter.ai™ in India)
+The whitepaper will present how these various data sharing approaches work in a number of countries,
+as well as how legislation (especially privacy laws) and regulations allowing fraud and scam data
+sharing are essential for data sharing to work.
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+4
+EXECUTIVE SUMMARY
+Fraud and scam data sharing is probably one of the most effective tools in the fraud fighter’s tool kit to
+detect and prevent fraud and scams. I remember back when I managed online security at MUFG Union
+Bank up until early 2019, some of my best fraud alerts from the RSA Adaptive Authentication system
+(now the Outseer Fraud Manager™) were the network fraud alerts generated from the other customers’
+flagged fraud transactions. It was close to a 1:1 false positive ratio.
+The best fraud and scam data sharing can help hone in on fraud and scam transactions and these can
+really help to reduce the fraud losses. But a major limitation is the lack of legislation or regulation to
+either allow data sharing or allow it in a meaningful way. Often, country privacy laws can limit banks
+from sharing data and sometimes, something as simple as an IP addresses cannot be shared.
+The good news is many countries now realize the benefits from fraud and scam data sharing. New
+legislation has been passed to allow banks to share data to fight fraud and scams. Privacy laws are
+being amended. There is a clear road map with best practices to share bank fraud and scam data.
+The best example of data sharing comes from the UK. Banks in the UK have been sharing many types of
+data for decades. They work with a number of organizations that are authorized by the UK government
+to participate in data sharing. The data shared ranges from reported fraud transactions, money mules,
+new account activity and even customers with reported fraud. But, even in the UK, they are working on
+sharing more data.
+Australia’s Financial Crimes Exchange (AFCX), established in 2016, has been at the forefront of sharing
+data between banks and more recently with the National Anti-Scam Centre. The AFCX is starting to
+include telecoms, crypto exchanges, digital platforms and social media companies to share critical
+intelligence with banks.
+For many other countries, they are in the infancy of data sharing. As you read this paper, you will see the
+strong involvement of government along with the banks to use data sharing as a meaningful tool in the
+fight against the fraudsters, especially in the fight to eliminate money mules. In South East Asia, we are
+also starting to see regional data sharing networks evolve.
+To move forward, we need to see more government involvement in the fight against fraud and
+scams, which is now dominated by transnational organized crime groups or nation states. We need
+to see privacy laws rewritten to allow data sharing for the explicit purpose of preventing fraud and
+scam activity, along with appropriate safe harbor language to protect banks from frivolous lawsuits.
+Ultimately, we want to see data sharing woven into bank fraud and scam controls—as an invisible
+component of fraud and scam controls.
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+5
+FRAUD AND SCAM DATA SHARING
+We will first look at those countries undertaking the most data sharing, including the UK and Australia.
+Then we will examine other countries including Canada, the European Union, Hong Kong, India,
+Malaysia, New Zealand, the Philippines, Singapore, South Africa, Thailand, and the United States.
+Top Data Sharing Countries
+UNITED KINGDOM
+UNITED KINGDOM SUMMARY
+Privacy Laws Allow banks to share fraud and scam data
+Data Sharing Very robust and helped with government approved Specified
+Anti-Fraud Organizations
+Data Shared Fraud incidences, customers involved in fraud, beneficiary
+check, and account application information
+Payment Network Analysis Yes, for Faster Payment Scheme
+Sharing with Telcos and Digital Platforms Yes
+National Anti-Fraud/Scam Centre No
+The UK financial Institutions (FIs) have been sharing fraud and scam data a number of ways for
+over 30 years. The UK government allows sharing fraud data while customer data is protected under
+privacy laws. FI’s do this data sharing by using a number of companies and up to six databases.
+These companies include Cifas, Mastercard Vocalink, Experian and Synectics Solutions as well as at
+a vendor level. In the past year, Stop Scams UK and Meta have also started data sharing programs
+involving banks.
+goVERNmENT AuTHoRITY To SHARE FRAud dATA
+The UK GDPR and the Data Protection Act 2018 (DPA)
+The UK GDPR and the Data Protection Act 2018 (DPA) do not prevent sharing personal information
+where it is appropriate to do so, or from taking steps to prevent harm (preventing, detecting and
+investigating scams and frauds). In fact the rationale of Legitimate Interests (Article (1)(f)) allows
+sharing information about fraudsters where personal data is required to be shared.
+The Serious Crime Act 2007
+The Serious Crime Act 2007 (the SCA) allows the sharing of fraud data in the UK to specified anti-fraud
+organizations. Data sharing must only take place within a secure framework within which individuals are
+protected, in a manner that complies with the Data Protection Act 1998 (DPA).
+The UK Information Commissioner’s Office (ICO) Nov 2024 Clarification For Fraud Sharing
+The UK’s data protection regulator has asked banks, telecommunications providers and digital
+platforms to share personal information responsibly to protect their customers from scams and fraud,
+and clarified that data protection law is not an excuse for failing to do so.
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+6
+The Information Commissioner’s Office (ICO) warned businesses that reluctance to share personal
+information to tackle scams and fraud can amount to a failure to protect their users from harm, and
+reassured that “data protection law does not prevent organizations from sharing personal information,
+if they do so in a responsible, fair and proportionate way.”
+FRAud dATA SHARINg oRgANIZATIoNS
+Cifas
+Over 750 organizations work with Cifas—ranging from banks, telcos, and insurers through to the public
+sector and government—all benefiting from each other’s data, intelligence, and learning. Cifas is a
+Specified Anti-Fraud Organization (SAFO) that began in 1988. A SAFO, under the UK Serious Crime Act
+2007, can enable or facilitate the sharing of information to prevent fraud. .
+Cifas has four data base services:
+1. National Fraud Database
+The National Fraud Database (NFD) is the most comprehensive database of fraud risk data and
+intelligence in the UK. There are approximately two million records on the Database. Over 350,000
+new fraud cases are currently being added yearly. This data and intelligence are shared in real
+time and online: 24 hours a day, seven days a week.
+The NFD hold records of first- and third-party fraud risk: facility (account) takeover, identity fraud,
+false insurance claims, false applications, asset conversion and misuse of facility(which now
+covers cases of money muling). Members record instances of fraudulent conduct against their
+organization to the relevant database, enabling other members to search against their data. When
+members confirm fraudulent conduct, they file their own case.
+This database is primarily for banks, building societies, retailers, telcos, insurance public sector
+2. APP Victim Check
+Banks check to see if their customer, with a suspicious transaction being processed, has been a
+victim of APP fraud before. Also, once a payment is confirmed APP fraud, the payment is stopped
+and the customer is registered to APP Victim Check. This is particularly important due to the
+nature of repeat victimization, especially against elderly victims.
+3. Beneficiary Check
+When a customer is doing a transaction, and it is alerted as suspicious, the bank can go to Cifas
+and do a Beneficiary Check, which checks with the recipient bank to see if recipient account is
+suspicious (e.g., look for indicators of fraud). If APP fraud is confirmed, transaction is blocked and
+recipient account is closed as a money mule account.
+4. Vision
+Vision constantly monitors a bank’s customer data and sends real time alerts when the bank’s
+customer fraud risk level changes. It can tell instantly if a bank customer has committed first party
+fraud or money muling elsewhere, or if they’ve been a victim of fraud. This is done if the bank’s
+customer data matches a case filed to the National Fraud Database (e.g., a matching phone
+number or other contact data; device numbers, device IDs or IP addresses; PII documentation)
+National Hunter
+National Hunter operates as a not for profit anti-fraud data sharing system managed by Experian
+Decision Analytics (a Specified Anti-Fraud Organization) on behalf of approximately 90 British financial
+institutions. Account applications for their services will be checked before an institution decides
+whether to proceed with the application.
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+7
+When someone applies for financial credit and provides information to a financial institution registered
+with National Hunter, their data is added to the database and compared with any previously stored
+information. If a discrepancy is found, National Hunter notifies the financial institution, which then
+assesses whether there are signs of potential fraudulent misrepresentation and may decide to reject
+the application.
+National SIRA
+National SIRA (Syndicated Intelligence for Risk Avoidance) is a database of fraud, financial crime
+and other risk data collated from private and public sector organizations. It is managed by Synectics
+Solutions (a Specified Anti-Fraud Organization). It functions on a membership basis, with contributors
+including a significant number of Tier 1, mid-size and challenger banks, and building societies. Members
+report confirmed or suspicious fraud intelligence.
+National SIRA has grown to become the largest syndicated database of cross-sector customer risk
+intelligence in the UK, containing 300 million records from over 160 contributing members (up to 2/3rds
+of banks and building societies). National SIRA is regarded by many financial institutions and insurance
+companies as the default fraud detection and prevention solution. £5 billion has been saved by National
+SIRA. The top three filing types include fraudulent use of an account (used to receive fraudulent funds,
+fake identification, other misuse of an account), questionable applications and identity fraud.
+Faster Payments and Pay.UK
+Pay.UK is responsible for the management and operation of the Faster Payments Service (FPS), along
+with other retail payment systems like BACS and Cheque and Credit clearing. The UK Faster Payments
+Service runs on Mastercard’s Vocalink real-time payments infrastructure, enabling consumers and
+businesses to make immediate payments 24x7, 365 days a year. While Vocalink operates the Faster
+Payment Scheme (FPS) infrastructure, the overall scheme governance and strategic oversight are
+managed by Pay.UK, which sets the rules and principles for the service.
+Pay.UK recently did an anomaly detection pilot on scam transactions with three vendors using Pay.UK
+network data from faster payments. The results were a 40% lift in fraud detection and a false:positive
+ration of 5:1 instead of the normal 10:1. Soon, Pay.UK will start making this core service network data
+available to the major banks and one or more vendors to create new solutions. This follows on from
+earlier work where Vocalink with Pay.UK developed a solution to detect and shut down criminal activity
+(money mules) across the Faster Payments network. The solution is called the Mule Insights Tactical
+Solution (MITS) and is based on patterns of known mule transactions as the Faster Payment Network
+can see both the sender and receiver side of the transaction and track transactions via network analysis.
+Using network data is insightful and more payment operators should think about using this type of data.
+Stop Scams UK
+In 2025, Stop Scams UK announced: “Leading companies from across the technology, telecoms, and
+financial sectors have pledged to come together under the banner of Stop Scams UK to drive forward
+collaborative counter fraud efforts to protect consumers, build confidence, and drive UK economic
+growth.“1 Stop Scams UK also said: “The first members of this initiative are, Amazon, Barclays UK, BT,
+Google, HSBC, Lloyds, Nationwide Building Society, NatWest, Match Group, Meta, Monzo, Santander,
+and Three and all sign a joint statement to further support Stop Scams UK’s intelligence sharing pilots.’
+Stop Scams UK recently completed a proof of concept. There are two early examples of data usage:
+1. Telcos will share the name and phone number involved in a suspected scam with banks. Banks
+will then check their records for a match.
+2. Customers will forward scam message to 7726. Telcos will receive complaint and use an AI
+chatbot to continue the text conversation with the scammer to tie the scammer up.
+1 https://stopscamsuk.org.uk/stop-scams-uk-joint-statement-data-sharing-fraud/
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+8
+Meta FIRE
+Meta has introduced FIRE (Fraud Intelligence Reciprocal Exchange) to UK banks. The FIRE program
+allows banks to share intelligence with Meta directly to combat scams on its platforms. According
+to Meta, the early stage of this 6-month pilot (in 2024) has already led Meta to take action against
+thousands of accounts run by scammers, with approximately 20,000 accounts removed based on data
+shared.2 NatWest and Metro Bank are the first banks in the UK to participate. This shows how involving
+organizations earlier in the Attack Chain can give positive preventative results.
+AUSTRALIA
+AUSTRALIA SUMMARY
+Privacy Laws Allow banks to share fraud and scam data
+Data Sharing Yes, with heavy focus starting in 2024
+Data Shared Fraud incidences
+Payment Network Analysis Yes, for Faster Payment Scheme
+Sharing with Telcos and Digital Platforms Yes
+National Anti-Fraud/Scam Centre Yes
+goVERNmENT AuTHoRITY To SHARE FRAud dATA
+The recent Scam Prevention Framework (SFP) legislation, approved by Parliament in February 2025,
+has a core component of data sharing. The legislation requires sharing actionable scam intelligence
+amongst the sector specific participants (banks, telecom providers and digital platforms) and
+the government.
+FRAud dATA SHARINg oRgANIZATIoNS
+Australian Financial Crimes Exchange (AFCX)
+Australia has come on strong in the past three years in data sharing for fraud and scams. In 2016,
+the major Australian banks launched the Australian Financial Crimes Exchange (AFCX) in partnership
+with the Australian Government.3 The AFCX has the support of the Australian government’s Attorney-
+General’s Department and is a key part in the Australian Government’s National Organized Crime
+Response Plan.
+1. AFCX Exchange
+AFCX offers two main services. First is the AFCX Exchange, which involves sharing of fraud and
+scam data between banks in Australia. This service was super-charged in 2024 with the addition
+of the AFCX Exchange Near Real Time Intel Loop. In addition to banks, the Australian national
+Anti-Scam Centre (NASC) also joined to share fraud and scam data. In an interview with ISMG, Ms.
+Rhonda Lou, Head of Strategy and Engagement, discussed how the AFCX is “scaling its efforts
+to stop scams by improving how telecoms, crypto exchanges, digital platforms and social media
+companies share critical intelligence” with banks.4
+When the Intel Loop was added, Australian Assistant Treasurer and Minister of Financial Services
+Stephen Jones said: “the partnership would increase the capacity to disrupt and intercept
+scammer contact with victims and help identify and take down scammer websites. The NASC will
+share and receive intel such as scam phone numbers, URLs, and bank accounts that are core tools
+2 https://about.fb.com/news/2024/10/meta-partners-with-uk-banks-to-combat-scams/
+3 https://www.afcx.com.au/2016/11/15/launch-of-australian-financial-crimes-exchange/
+4 https://www.govinfosecurity.com/how-sharing-intel-faster-could-help-block-financial-scams-a-27862
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+9
+scammers use to ply their act. This means that whether a person reports a scam to a bank, a telco
+or to Scamwatch, we can use the intel loop to stop this scam from harming more Australians.”5
+This quote demonstrates the strong commitment between the Australian government and the
+Australian banks to share data to reduce fraud and scams.
+2. AFCX Fraudulent Reporting Exchange (FRX)
+The second AFCX service is the Fraudulent Reporting Exchange (FRX). According to AFCX,
+the FRX is a trusted, secure, single platform which provides a more timely and efficient means
+of reporting and actioning fraudulent (including scam) activities between issuing and recipient
+financial institutions. FRX is basically the centralized reporting system between issuing and
+recipient financial institutions on fraudulent activity. FRX includes communication with the
+receiving bank in the recovery and return of funds.
+National Anti-Scam Centre
+Australia also has the National Anti-Scam Centre (www.nasc.gov.au) which was established in 2023.
+The NASC has created partnerships between government and industry participants from the finance,
+telecommunications and digital platforms sectors to tackle scams. According to the NASC, “Technology
+enables NASC to ingest, analyze and share data at scale and supports collaborative strategies for scam
+disruption, victim support and scam awareness across government and in partnership with industry.”
+NASC is also responsible for producing the annual scam statistics for Australia.
+NASC has a key focus on disrupting scams. NASC has created targeted fusion centers to focus on
+specific crimes. Two recent fusion centers were investment scams and jobs and employment scams.
+NASC also works with the Australian Securities and Investments Commission (ASIC) on the takedown
+of investment scam websites. Since early 2025, ASIC and NASC have taken down over 10,000
+investment scam websites. An average of 130 bogus sites are taken down weekly.
+5 https://newsreel.com.au/article/business/anti-scam-plan-keeps-everyone-in-the-loop/
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+10
+Other Countries
+CANADA
+CANADA SUMMARY
+Privacy Laws Allow banks to share fraud and scam data, with constraints
+especially around safe harbor concerns
+Data Sharing Limited data sharing using the Bank Crime Prevention and
+Investigation Framework
+Data Shared Fraud incidences
+Payment Network Analysis Yes, with the upcoming Real Time Rail payments
+Sharing with Telcos and Digital Platforms Just starting to share with these organizations via the
+Canadian Anti-Scam Alliance
+National Anti-Fraud/Scam Centre Yes, the Canadian Anti-Fraud Centre
+goVERNmENT AuTHoRITY To SHARE FRAud dATA
+Canada’s privacy law is Personal Information Protection and Electronic Documents Act (PIPEDA) and it
+came into effect in 2004. Section 7 (added in 2015) describes when data can be shared.
+Section 7 (3) Disclosure without knowledge or consent Communication
+(d.1) made to another organization and is reasonable for the purposes of investigating a breach
+of an agreement or a contravention of the laws of Canada or a province that has been, is being
+or is about to be committed and it is reasonable to expect that disclosure with the knowledge or
+consent of the individual would compromise the investigation;
+(d.2) made to another organization and is reasonable for the purposes of detecting or suppressing
+fraud or of preventing fraud that is likely to be committed and it is reasonable to expect that
+the disclosure with the knowledge or consent of the individual would compromise the ability to
+prevent, detect or suppress the fraud;
+According to a Canadian banking expert, Canadian Banks follow the Bank Crime Prevention and
+Investigation Framework (BCPIF) as the governance model to share information with other banks for
+the purpose of preventing and investigating financial crimes (e.g., fraud, money laundering). Banks
+use the BCPIF governance for sharing fraud and scam data directly and indirectly. This data sharing is
+allowed in cases of confirmed fraud or when a bank can prevent imminent financial crime. In consortia
+data sharing, the data is often pseudonymized.
+FRAud dATA SHARINg oRgANIZATIoNS
+Canadian Banker’s Association (CBA)
+The Canadian Banker’s Association (CBA) has developed a collaboration effort that Canadian banks
+use to share fraud data between banks. Banks submit fraud cases to the CBA database. There are still
+limitations on what data can be shared. An example is banks cannot share IP addresses and device IDs,
+considered PII data in Canada, unless it is for confirmed fraud/scam events. Also, there are strong safe
+harbor limitations for mistakes. Some types of data are shared with the CBA, who then anonymizes the
+data for broader audience awareness. Banks also share specific fraud and scam intelligence data via
+the CBA.
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+11
+In 2024, the CBA created the Canadian Anti-Scam Alliance. According to the CBA, “the Anti-Scam
+Alliance aims to drive outcomes across four priority areas in 2025:6
+1. Enhancing cross-sector data and intelligence sharing (with banks, telcos, digital platforms,
+Canadian Anti-Fraud Centre and law enforcement). Sharing of confirmed bad actor data is
+permissible and is the current focus of the Alliance for piloting a project between financial
+institutions and telecom providers. The goal is to work toward a centralized platform to pull/push
+data to/from. An industry expert advised me that there are barriers (e.g., privacy, legal risks, and
+data handling security), both real and perceived, that currently limit the sharing of some data.
+2. Strengthening Canada’s anti-scam technology and security capabilities
+3. Digital platform engagement
+4. Public education and awareness
+The Canadian Anti-Scam Alliance has looked to identify clear use cases for sharing data across sectors
+in a way that is equitable for participants. This included aligning on what is permissible within Canada’s
+privacy laws, identifying high impact use cases and relevant data attributes that can be provided by
+various sectors. This group is also examining technology and security mechanisms for sharing data
+across sectors in a privacy enhancing manner.
+Canadian Anti-Fraud Centre (CAFC)
+Canada has a national anti-fraud centre called Canadian Anti-Fraud Centre (CAFC). CAFC is a national
+police service that gathers intelligence on fraud across Canada and assists Police of Jurisdiction with
+enforcement and prevention efforts.
+The CAFC maintains the Fraud Reporting System (FRS), a centralized database pooling fraud
+reports from individuals, businesses, and financial institutions. CAFC provides information to law
+enforcement and governments in Canada and around the world. CAFC’s goals include: disrupting
+crime, strengthening the partnership between the private and public sectors and maintaining Canada’s
+economy. CAFC works with internation law enforcement, including the US Secret Service on a number
+of cases. CAFC will also takedown bogus investment web sites to prevent scams.
+6 https://www.payments.ca/strengthening-canadas-fight-against-fraud-insights-canadian-bankers-association?utm_source=chatgpt.com
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+12
+EUROPEAN UNION
+EU SUMMARY
+Privacy Laws Current EU privacy laws prevent most data sharing. Newer
+legislation may allow more data sharing.
+Data Sharing Very limited data sharing
+Data Shared No
+Payment Network Analysis This may start to occur with the EU Instant Payments
+Sharing with Telcos and Digital Platforms No
+National Anti-Fraud/Scam Centre Yes, some countries
+goVERNmENT AuTHoRITY To SHARE FRAud dATA
+Like most countries the EU has strong privacy laws that restrict sharing of customer data. This has
+made any fraud data sharing problematic. In 2024, the European Banking Authority, in its April 2024 EBA
+Opinion on new types of payment fraud and possible mitigants, recommended:
+A requirement for all Payment Services Providers (PSPs) to share fraud related information among
+themselves to enhance transaction monitoring. In this regard, the provisions in Art. 83 of the
+Payment Services Regulation (PSR) could be further strengthened by requiring all PSPs to share
+fraud related data, limited not only to unique identifiers/IBANs of the payee, but also including
+aspects such as other identification elements of persons suspected to be fraudsters (including
+names, IP addresses and phone numbers used) and information on the fraudsters’ modus
+operandi.7
+The EU fraud and money laundering laws can now be construed as beginning to allowing fraud data
+sharing in the EU. Payment Services Regulation (PSR) from PSD3 allow sit for fraud, and complementary
+to it is the Anti-Money Laundering Regulation (AMLR) for money laundering and terrorist financing.
+PSD3 is still in draft state but should be released in 2026, while the AMLR will come into force in
+July 2027.”
+There may still need to be discussions with the EU’s Data Protection Authority (DPA) to confirm fraud
+data sharing will be allowed soon in the EU.
+FRAud dATA SHARINg oRgANIZATIoNS
+EBA Clearings
+EBA Clearings, the manager of two payment systems in the EU has a network anomaly direction system,
+called Fraud Pattern and Anomaly Detection (FPAD).8 By using network data, EBA Clearings has created
+a very effective tool that offers “a unique network view of insights into payment and beneficiary account
+behaviors unavailable to any single PSP (Payment Service Provider).”
+National Level
+Individual EU countries have National Anti-Fraud/Scam Centers. Belgium is one example. Its national
+center is called the Centre for Cybersecurity Belgium (CCB). It was established in 2014. The CCB also
+plays a key role in the realization of Belgium’s Cybersecurity Strategy 2.0, which was approved by the
+country’s National Security Council in 2021.
+One program CCB has is called the Belgian Anti-Phishing Shield (BAPS). It is a way for consumers to
+report fraud web sites. Plus, there is a special API path for trusted partners to report these fraud web
+sites. The Centre then gets ISPs to take down the sites. Then a warning page is put up for consumers.
+7 https://www.eba.europa.eu/sites/default/files/2024-04/363649ff-27b4-4210-95a6-0a87c9e21272/Opinion%20on%20new%20types%20of%20payment%20
+fraud%20and%20possible%20mitigations.pdf
+8 https://www.ebaclearing.eu/services-fraud-fighting/fpad/
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+13
+One of the CCB’s most successful initiatives is Safeonweb.be, a public awareness platform that has
+quickly become the national reference for cybersecurity. Citizens actively contribute to cybersecurity
+through this portal, reporting suspicious emails (up to 10 million per year) to suspect@safeonweb.be.
+The Safeonweb.be website and app provide up-to-date information on current scams, phishing trends,
+and practical advice for consumers.
+The cybersecurity framework created by the CCB, known as the Cyber Fundamentals, has garnered
+international attention and is currently being adopted by countries like Romania and Ireland.
+In the Netherlands, the equivalent of a national anti-scam center is the Stichting Aanpak Financieel-
+Economische Criminaliteit in Nederland (Foundation for Tackling Financial-Economic Crime in the
+Netherlands) or SAFECIN. SAFECIN has a unit called fraudehelpdesk.NE, which is the Dutch national
+anti-fraud hotline. Fraudehelpdesk raises awareness of the dangers of scams and frauds by publishing
+updated information and alerts. Customers can report fraud on its website.
+HONG KONG
+HONG KONG SUMMARY
+Privacy Laws Hong Kong law allows data sharing
+Data Sharing Yes. Platform is called FINEST.
+Data Shared Information for detecting and disrupting fraud and mule
+account networks
+Payment Network Analysis Yes, with the upcoming Real Time Rail payments
+Sharing with Telcos and Digital Platforms No
+National Anti-Fraud/Scam Centre Yes, the Anti-Deception Coordination Centre (ADCC)
+goVERNmENT AuTHoRITY To SHARE FRAud dATA
+In 2025, the Hong Kong government introduced Banking Amendment Bill 2025.9 The Bill’s purpose is “to
+introduce a voluntary mechanism for AIs (Authorized Institutions) to share with each other information
+of corporate and individual accounts through secure platforms to be designated by the Hong Kong
+Monetary Authority (HKMA).”
+Fraud Data Sharing Organizations
+Hong Kong has been very active in promoting banks to share fraud and scam data. In the Hong Kong
+Monetary Authority (HKMA) 2024 Review, they highlighted data sharing as a key objective in the chart
+below. FINEST (Financial Intelligence Evaluation Sharing Tool) is the bank-to-bank information sharing
+platform launched in June 2023. It brings together Police, the Digital Policy Office and HKMA alongside
+an Anti-Scam Consumer Protection Charter.
+The Hong Kong Police Force set up the Anti-Deception Coordination Centre (ADCC) in 2017. The ADCC
+key role is to formulate and implement the strategic directions to combat deception.
+9 http://www.elegislation.gov.hk/hk/2025/03/28/supp3/3!en
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+14
+INDIA
+INDIA SUMMARY
+Privacy Laws Yes, for prevention of crime
+Data Sharing Limited data sharing
+Data Shared Fraud and money mules
+Payment Network Analysis With mulehunter.ai
+Sharing with Telcos and Digital Platforms No
+National Anti-Fraud/Scam Centre No
+goVERNmENT AuTHoRITY To SHARE FRAud dATA
+India has a data privacy law—the Digital Personal Data Protection Act, 2023 (DPDP Act). Section 7
+allows banks to share fraud and scam data without consent if it is for preventing or detecting fraud.
+DPDP Act Section 7(1)(e):
+Personal data may also be processed for the purposes related to the prevention, detection,
+investigation, or prosecution of any offence or contravention of any law for the time being in force
+in India.
+FRAud dATA SHARINg oRgANIZATIoNS
+Reserve Bank of India (RBI)
+The Reserve Bank of India (RBI) has the Central Payments Fraud Information Registry (CPFIR) which
+includes reporting of fraudulent transactions related to payment systems. It was established in 2020.
+CPFIR focuses specifically on digital and electronic payment frauds. Entities are required to report
+payment fraud transactions promptly. Reports are submitted via the RBI’s Payment System Fraud
+Reporting (PSFR) portal.
+The RBI also has The Central Fraud Registry (CFR) which is primarily designed to capture
+comprehensive information about all bank frauds.
+In late 2024, the RBI introduced mulehunter.ai.10 RBI is looking to tackle money mule networks through
+its new MuleHunter.AI solution, which was developed in-house by its subsidiary, the Reserve Bank
+Innovation Hub (RBIH). The solution uses machine learning algorithms to analyse transaction and
+account data and seeks to serve as a faster and more accurate alternative to the static rule-based
+systems currently used by banks to detect mule accounts. The RBIH is currently piloting MuleHunter.AI
+with two large public sector banks.
+Indian Cyber Crime Coordination Centre (I4C)
+India does not have a specific National Anti-Scam Centre, but it does have the Indian Cyber Crime
+Coordination Centre (I4C) which was launched in 2020. I4C is as the primary agency for cybercrime
+coordination. Its components include:
+• National Cyber Crime Reporting Portal for citizens to report cybercrimes
+• Threat Analytics Unit to analyze cyber threats
+• Cyber Forensics Lab for investigating cyber incidents
+10 MuleHunter.ai™ - Reserve Bank Innovation Hub
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+15
+MALAYSIA
+MALAYSIA SUMMARY
+Privacy Laws 2024 legislation allows for data sharing between
+government agencies
+Data Sharing Very limited
+Data Shared Money mule
+Payment Network Analysis No
+Sharing with Telcos and Digital Platforms No
+National Anti-Fraud/Scam Centre Yes, the National Scam Response Centre (NSRC)
+goVERNmENT AuTHoRITY To SHARE FRAud dATA
+Malaysia has consumer privacy protection with the Personal Data Protection Act 2010, amended
+in 2024.
+Maylasia reported in December 2024 that legislation passed that facilitates data sharing between
+Federal Government agencies.11
+FRAud dATA SHARINg oRgANIZATIoNS
+Association of Banks in Malaysia (ABM)
+Malaysia has ideas for future fraud data sharing. The Association of Banks in Malaysia (ABM) executive
+director Dr Amina Josetta Kayani said “ABM envisages the establishment of a fraud intelligence
+network across Asean banks to enable real-time sharing of data on fraudulent activities, enhance threat
+detection, and foster a unified response to cyber risks, in line with the Asean Cybersecurity Cooperation
+Strategy (2021–2025).”
+Royal Malaysian Police (PDRM)
+The Royal Malaysian Police (PDRM) has introduced the Semak Portal version 2.0 to curb the
+commercial crime of online fraud in the country.12 This is a program, which began in 2018, is used by
+consumers before they do financial transactions to check phone numbers and bank accounts to see if
+they have been reported as fraud. The Semak Mule Portal has so far also listed 193,000 mule accounts
+and 164,000 phone numbers used by scammers. Some 27.2 million visitors have searched in to the
+portal, and about 1.9 million of the searches have been positive, meaning transactions to mule accounts
+were prevented. This is an innovative use of data sharing directly with the consumers.
+National Scam Response Centre (NSRC)
+Malaysia has a national anti-scam center, called the National Scam Response Centre (NSRC),
+established in 2022. Within the NSRC is the National Scam Portal (NSP), launched in 2024. The Portal is
+used by 48 financial institutions and the NSRC. Some of the benefits of the Portal:13
+• Fund (account) freezing rates increased from 0.5% to 30%
+• Reduced time to investigate (fraudulent funds) by 75% to 30 minutes
+• 14% improvement in mule detection
+As part of the NSP, the financial industry has also agreed to adopt industry-wide procedures for
+reporting and handling mule accounts. The NSRC also identifies and analyzes various types of scams.
+In March 2025, the NSRC was planning to add almost 140 staff.
+11 https://www.digital.gov.my/en-GB/siaran/Malaysia-Meluluskan-Rang-Undang-Undang-Penting-Yang-Membolehkan-Perkongsian-Data-Antara-Agensi-Kera-
+jaan-Persekutuan
+12 https://semakmule.rmp.gov.my/
+13 *Source: FNA, developer of the NSP (from 2025 webinar)
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+16
+NEW ZEALAND
+NEW ZEALAND SUMMARY
+Privacy Laws Prevents Data Sharing unless information is about a money
+mule account
+Data Sharing Limited
+Data Shared Money mule information starting in Q4 2025
+Payment Network Analysis No
+Sharing with Telcos and Digital Platforms No
+National Anti-Fraud/Scam Centre Just a National Cyber Security Centre; but the New Zealand
+Banking Association started a limited Anti-Scam Centre.
+In July 2025, the New Zealand government introduce a
+National Anti-Scam Alliance which may perform some of the
+functions of a national anti-scam center.
+goVERNmENT AuTHoRITY To SHARE FRAud dATA
+New Zealand privacy laws basically prevent fraud and scam data sharing . The only apparent exception
+is for money mule accounts.14
+FRAud dATA SHARINg oRgANIZATIoNS
+New Zealand Banking Association (NZBA)
+In late 2023, the New Zealand Banking Association (NZBA) started a basic Anti-Scam Centre. So far, the
+primary purpose has been to share money mule account information.
+The NZBA has asked the New Zealand government to fund a full Centre, to be modeled after the
+Singapore Anti-Sam Centre model.
+PHILIPPINES
+PHILIPPINES SUMMARY
+Privacy Laws Allow data sharing for fraud investigations
+Data Sharing Limited data sharing via the Bankers Association of the
+Philippines (BAP) Cybersecurity Incident Database
+Data Shared For fraud investigation and recovery of funds
+Payment Network Analysis Yes, with InstaPay payment network
+Sharing with Telcos and Digital Platforms One agreement between one telco and one bank
+National Anti-Fraud/Scam Centre No
+goVERNmENT AuTHoRITY To SHARE FRAud dATA
+In the Philippines, the data protection law is called the Data Privacy Act (DPA) of 2012. Under the DPA,
+personally identifiable information (PII) cannot be freely shared without the data subject’s consent
+and without legitimate purpose. To address the ability to share data for fraud prevention, the Bangko
+Sentral NG Pilipinas (BSP) sought clarification from the National Privacy Commission (NPC). The
+NPC issued and advisory opinion No 2021-026 which allows the sharing of personal information for
+fraud investigations. In an article published by Davina Law in 2021, “The BSP advised that all BSP
+14 https://www.interest.co.nz/personal-finance/130278/westpac-nz-ceo-catherine-mcgrath-highlights-tension-between-privacy-and
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+17
+supervised financial institutions (BSFIs) must cooperate and share relevant information to third parties,
+such as other financial institutions, payment gateway providers, third-party service providers, and law
+enforcement agencies, among others in the conduct of fraud investigations. Information that may be
+shared/disclosed to the said parties, include, but is not limited to the following:
+1. Name
+2. Home/Delivery Address
+3. Email Address
+4. Mobile or other contact details
+5. Bank/financial account information
+6. Bank/financial transaction details”15
+In 2024, the Philippines passed the Anti-Financial Account Scamming Act (AFASA). This act was
+primarily caused by the increase in financial account scams. This law enhanced the ability of the BSP to
+issue rules on information sharing.
+FRAud dATA SHARINg oRgANIZATIoNS
+Bankers Association of the Philippines (BAP)
+In 2022, the Bankers Association of the Philippines (BAP) launched the Cybersecurity Incident Database
+(BAPCID), a centralized platform designed to enhance information sharing on cyber threats among
+Philippine banks. The BAPCID database is a centralized platform for member banks to share fraud
+and cybersecurity threat information in near real time. The BSP said on March 22, 2022 “BSFIs are
+encouraged to collaborate and utilize existing information sharing platforms, such as the Bankers
+Association of the Philippines Cyber Incident Database (BAPCID), to facilitate fraud investigation and/or
+recovery of funds.”16
+“Philippine telco Globe Telecom says it has signed a data-sharing agreement with digital bank GoTyme
+in a move meant to combat digital fraud and other online financial crimes. Under the agreement
+announced on Monday, Globe will share with GoTyme information related to mobile numbers potentially
+being used by fraudsters, to include names, addresses, and contact details.”
+The Philippines does not yet have a National Anti-Fraud Centre. Philippines Senator Mark Villar has filed
+Senate Bill No. 2924, also known as the Philippine Scam Prevention Center (PSPC) Act, to establish
+a dedicated government agency for the enforcement and implementation of laws related to online or
+digital fraud and financial-scamming related complaints.
+Senator Villar said: “The PSPC, which shall serve as a one-stop-shop for financial scam-related offenses,
+will be composed of agencies comprising the Cybercrime Investigation and Coordinating Center
+(CICC) with the Department of Trade and Industry (DTI), Bangko Sentral ng Pilipinas (BSP), National
+Telecommunications Commission (NTC), National Privacy Commission (NPC), financial institutions,
+telecommunication companies, online marketplaces, financial technology companies, and operators of
+online or payment systems, among others.”
+15 https://www.divinalaw.com/dose-of-law/banks-directed-to-share-information-on-fraud-investigations/
+16 http://www.bsp.gov.ph/Regulations/Issuances/2022/M-2022-015.pdf
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+18
+SINGAPORE
+SINGAPORE SUMMARY
+Privacy Laws Law allows data sharing for financial crimes.
+Data Sharing Limited data sharing using COSMIC data platform
+Data Shared Includes data related to fraud and scam transactions
+Payment Network Analysis No
+Sharing with Telcos and Digital Platforms Yes, via the Anti-Scam Centre
+National Anti-Fraud/Scam Centre Yes, the Anti-Scam Centre (ASC)
+goVERNmENT AuTHoRITY To SHARE FRAud dATA
+Singapore has the Personal Data Protection Act 2012 (“PDPA”) for protecting customer data. In 2023,
+the Financial Services and Markets-FCM (Amendment) Bill was passed to incorporate the Collaborative
+Sharing of money laundering and terrorist financing (ML/TF) Information and the Collaborative Sharing
+of Money Laundering/Terrorism Financing Information and Cases (“COSMIC”) platform for collecting
+this shared information.
+FRAud dATA SHARINg oRgANIZATIoNS
+Monetary Authority Singapore (MAS)
+According to a written response from The Monetary Authority Singapore (MAS) in April 2025,
+MAS explained:
+“There are six major commercial banks in Singapore participating in COSMIC. The financial
+institutions (FIs) may use COSMIC to share customer information with one another only for
+detecting or preventing financial crimes, if these customers exhibit multiple “red flags” that
+indicate potential financial crime concerns, and if the stipulated thresholds are met. This
+information sharing framework includes data related to fraud and scam transactions.”
+National Anti-Scam Centre
+Singapore has a national Anti-Scam Centre.17 The Singapore Police Force set up the Anti-Scam Centre
+(ASC) in 2019 as a nerve center for investigating scam-related cases. The Anti-Scam Centre’s focus
+is to mitigate victims’ losses through the swift interdiction of the proceeds of crimes.” Staff from the
+six major banks are co-located at the ASC. The ACS collaborates with more than 80 stakeholders
+comprising financial institutions, fintech companies, telcos and online marketplaces. The Singapore
+Police Force can freeze bank accounts suspected of being involved in scam activities within a day.
+More importantly, the center involves telco and digital platform cooperation such as telecommunication
+companies and online marketplaces. In the last 3.5 years, more than 11,200 mobile phone lines were
+terminated, more than 54,200 WhatsApp accounts were reported, and more than 7,400 suspicious
+online monikers and advertisements were removed.
+The Singapore Police Force (SPF) is also a member of the Asset-Recovery Interagency Network – Asia
+Pacific. This network spans 28 jurisdictions and is used to recover fraud and scam monies and other
+illicit funds. This intelligence sharing and cooperation is part of Singapore’s scam controls.
+17 https://www.police.gov.sg/Media-Room/Police-Life/2021/11/The-Anti-Scam-Centre---A-Collaborative-Approach-Against-Scams
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+19
+SOUTH AFRICA
+SOUTH AFRICA SUMMARY
+Privacy Laws The law allows for data sharing
+Data Sharing Good data sharing with two databases (SAPFS and SABRIC)
+Data Shared For fraud prevention and account opening
+Payment Network Analysis No
+Sharing with Telcos and Digital Platforms No
+National Anti-Fraud/Scam Centre No, but there is the National Fusion Centre
+goVERNmENT AuTHoRITY To SHARE FRAud dATA
+In South Africa, the data protection law is called the Protection of Personal Information Act (POPIA).
+This law allows for data sharing for fraud prevention purposes.
+FRAud dATA SHARINg oRgANIZATIoNS
+South African Fraud Prevention Service (SAFPS)
+Banks use the non-profit South African Fraud Prevention Service (SAFPS) to share fraud related
+data with member associations. SAFPS maintains a shared database of confirmed and suspected
+fraud cases. This database also allows members to assess new applications. SAFPS began in 2001.
+Members of SAFPS include banks and retail organizations.
+South African Banking Risk Information Centre (SABRIC)
+South African banks also use the South African Banking Risk Information Centre (SABRIC) which
+collects, analyzes and disseminates information related to fraud. SABRIC keeps its clients informed
+about the latest scams and fraudster activities. SABRIC was formed by the four major banks in
+South Africa.
+National Fusion Centre
+South Africa also has the National Fusion Centre, established in 2020, which is used to combat fraud.18
+The Fusion Centre was modelled on similar initiatives in some financial intelligence units across the
+globe. The Fusion Centre is an alliance of law enforcement authorities and investigative bodies in the
+Justice, Crime Prevention and Security cluster and the Financial Intelligence Centre (FIC). The remit of
+the multi-agency collaborators is to fast-track and deal with criminal and civil matters from stages of
+identification to investigation, and ultimately, to litigation.
+18 http://www.fic.gov.za/wp-content/uploads/2023/09/2022.8-MR-Fusion-Centre-marks-two-years-of-successful-private-public-collaboration.pdf
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+20
+THAILAND
+THAILAND SUMMARY
+Privacy Laws Law allows data sharing
+Data Sharing Good data sharing since 2023–24
+Data Shared Data to fight scams and address illegal transactions, fraud
+and money mule accounts.
+Payment Network Analysis No
+Sharing with Telcos and Digital Platforms Will see some sharing as part of the April 2025 regulation
+involving banks, telcos and digital platforms potentially
+sharing in scam losses
+National Anti-Fraud/Scam Centre Yes, the Anti-Online Scam Operation Center (AOC)
+goVERNmENT AuTHoRITY To SHARE FRAud dATA
+In April 2025, the Thai government added new fraud control requirements. One of the requirements is
+around data sharing. The Bank of Thailand said: “Financial service providers must have mechanisms
+to share accurate information in a timely manner with one another and with relevant external agencies
+(e.g., Anti-Money Laundering Office, Royal Thai Police) to enhance collective fraud management
+efforts, and must appoint responsible persons to coordinate and procure information necessary for
+any investigations.”
+The Thai Cabinet approved amendments of the 2018 Emergency Decree on Digital Asset Business and
+the 2023 Emergency Decree on Measures for the Prevention and Suppression of Technology Crimes to
+extend data sharing about money mules to Digital Asset Platforms such as Crypto.
+FRAud dATA SHARINg oRgANIZATIoNS
+Central Fraud Registry (CFR)
+Thailand has the Central Fraud Registry (CFR) as an automated solution to fight scams and address
+illegal transactions, fraud and mule accounts.19 The platform was developed from the existing National
+Interbank Transaction Management and Exchange, jointly created by the Thai Bankers’ Association
+(TBA) and the Bank of Thailand. The registry platform lets banks prevent suspected accounts from
+completing transactions based on an artificial intelligence system.
+In 2024, the TBA introduced data-sharing through the CFR. One of the main purposes of this data base
+is to identify and crack down on money mule accounts. Since the introduction of the CFR system, the
+banking sector has identified 15,000 individual depositors linked to mule accounts. Every bank has
+established internal procedures to address fraudulent accounts, such as immediately closing such
+accounts and prohibiting depositors from reopening new accounts.
+There is the establishment of the Center for Prevention and Suppression of Technology Crimes.
+This Center will notify financial institutions and business operators of names or digital asset wallet
+addresses that may be related to technology crimes, triggering an obligation to suspend the accounts.
+This extends data sharing from banks to Crypto platforms to track the money mules there.
+Anti-Online Scam Operation Center (AOC)
+Thailand’s national anti-scam center is called The Anti-Online Scam Operation Center (AOC), Thailand’s
+national hub for combating online scams and cybercrime, and it launched in 2023. A key focus is to
+prevent consumer scams.
+19 https://www.itmx.co.th/product-and-service/MTY5OTAwNDY1MA==
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+21
+The AOC streamlines its operations by linking with the Central Fraud Registry of the Thai Bankers’
+Association and telecommunication service providers’ data exchange systems. The Center uses this
+sophisticated technology to gather intelligence on and address around 700 daily scam cases.
+The AOC represents a collaborative effort by various Thai government bodies, plus the AOC is looking
+to collaborate with neighboring countries. The AOC can block suspicious transactions and freeze
+fraudulent bank accounts to help in the scam recovery process. From Nov 1, 2023 to April 18 2025. the
+Centre suspended 607,838 bank accounts.
+UNITED STATES
+UNITED STATES SUMMARY
+Privacy Laws Current US privacy laws limit data sharing
+Data Sharing Very limited data sharing, primarily under FinCEN 314 (b)
+and some bank-to-bank data sharing
+Data Shared Financial Institutions may share information relating to
+activities that a financial institution suspects may involve
+possible terrorist financing or money laundering, including
+fraud.
+Payment Network Analysis No
+Sharing with Telcos and Digital Platforms No
+National Anti-Fraud/Scam Centre No
+goVERNmENT AuTHoRITY To SHARE FRAud dATA
+The United Stated has been limited in fraud data sharing because of the US Treasury Financial Crimes
+Enforcement Network (FinCEN) and strict US privacy laws. FinCEN is responsible for AML/BSA in the
+US. There is a 314(b) program for sharing AML data, which includes fraud data. Fraud data is defined as
+a Specifically Unlawful Activity (SUA) and can be included in 314(b) data sharing.
+So, first what is 314(b)? According to the FinCEN Section 314(b) Fact Sheet in 2020, “314(b) of the USA
+PATRIOT Act provides financial institutions with the ability to share information with one another, under
+a safe harbor that offers protections from liability, in order to better identify and report activities that
+may involve money laundering or terrorist activities, included in the list of SUAs.”20
+The information that can be shared pursuant to 314(b): Specifically, financial institutions or an
+association of financial institutions sharing information under the safe harbor created by Section 314(b)
+may share information relating to activities that a financial institution or association suspects may
+involve possible terrorist financing or money laundering. This may occur, for instance, when the financial
+institution or association is sharing information about specific transactions involving the proceeds
+of one or more SUAs. The SUAs include an array of fraudulent and other criminal activities, including
+fraud against individuals, organizations, or governments, computer fraud and abuse, and other crimes.
+A financial institution or association may share information on attempts to induce others to engage in
+transactions, such as in a money mule scheme. 314 (b) is voluntary for financial institutions.
+Since 314(b) was established in 2002, there have been no changes. And according to industry experts,
+none are planned. These experts said if it became mandatory for banks to share SUA data and there
+were defined response times to queries, that could help make 314(b) a better fraud data sharing tool.
+20 https://www.fincen.gov/sites/default/files/shared/314bfactsheet.pdf
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+22
+FRAud dATA SHARINg oRgANIZATIoNS
+There are a number of initiatives under way exploring ways to share data between banks and
+other organizations.
+Financial Services information and Analysis Center (FS-ISAC)
+The US Financial Services information and Analysis Center (FS-ISAC), a member consortium of financial
+institutions focused on cyber risks, has expanded its member-to-member data sharing into the fraud
+space over the past few years. Recently, it published a member-built Cyber Fraud Prevention Framework
+to show how the two sides can come together to protect consumers.
+American Bankers Association
+In late 2023, The American Bankers Association announced they are creating an information-sharing
+exchange that member banks will be able to use to get the names and account information of
+suspected scammers almost in real time.21 This pilot is continuing in 2025. The ABA also has the ABA
+Fraud Contact Directory which helps banks easily connect with other institutions to resolve fraudulent
+transfers.22
+National Task Force on Fraud and Scam Prevention
+There is no National Anti-Fraud Center (and no national fraud/scam strategy either). In 2024, the US
+non-profit Aspen Institute convened a number of banks, digital platforms, telecom providers and Law
+Enforcement to discuss how the US can finally get into the scam fight. And there are discussions at
+these meetings about a National Anti-Fraud Center and data sharing. By year-end, The Aspen Institute
+will have recommendations and hopefully a real action plan with meaningful financial commitments
+from the participants.
+The Aspen Institute launched the National Task Force on Fraud and Scam Prevention, which is a
+cross-sector effort to tackle consumer fraud and scams in the US. One of its work streams is titled
+”Information Sharing Across Sectors.” Members of this task force are from financial institutions, digital
+platforms, government, telcos and consumer groups. Actionable recommendations are due by year
+end 2025.
+Nation Elder Fraud Coordination Center (NEFCC)
+One bright spot on the US data sharing horizon, is the newly formed Nation Elder Fraud Coordination
+Center (NEFCC) in Pittsburgh, Pennsylvania. NEFCC primary goal for the next year is to work with law
+enforcement and private enterprise to share specific elder scam data points that will allow dozens
+of lower value individual scam cases to be aggregated into larger cases for law enforcement and
+Department of Justice attorneys/District Attorneys to work to bring criminals to justice. Brady Finta, the
+head of NEFCC, described in an interview the data NEFCC will collect from various sources as selectors,
+or signals. These selectors include phone numbers, email addresses, wire transfers, digital currency
+accounts and IP addresses. These selectors will help tie smaller cases into one large case, which then
+supports the prosecution of these large cases and put criminals in jail.
+The Financial Data Exchange (FDX)
+For Open Banking, The Financial Data Exchange (FDX), an international, nonprofit technical standards
+body) has an API that allows for sharing of fraud and scam data that Open Banking participants can use
+to share data.
+21 https://fincrime.news.blog/2023/12/03/aba-to-launch-information-sharing-exchange-to-help-banks-fight-fraud/
+22 https://www.aba.com/news-research/analysis-guides/fraud-contact-directory
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+23
+Federal Reserve
+In 2024, there was a Federal Reserve working group on scam information data sharing.23 They issued a
+report. In the report they defined the problem:
+Stakeholders in the U.S. payments industry lack real-time access to current, industrywide
+information necessary to develop effective strategies to detect and prevent a growing number of
+scams, and other fraud types, that cause significant financial losses and negatively impact both
+consumers and organizations.
+The working group “recommended the industry consider establishing an information exchange to
+provide scam intelligence across payment rails.”
+To be fair, there are some fraud fighters in the US that say that there is enough permission to share
+fraud and scam data in the US. This sharing may be done privately between banks or with private
+organizations with versions of 314(b) solutions. Some vendors also offer 314(b) versions of data
+sharing in the US.
+Because the US privacy laws are so stringent and the US is a very litigious country, US financial
+institutions will continue to be quite conservative and limit fraud and scam data sharing.
+Regional Data Sharing
+In the April 2025 UN report Inflection Point: Global Implications of Scam Centres, Underground Banking and
+Illicit Online Marketplaces in Southeast Asia, the UN called for more sharing of data on a regional basis:24
+Cross-border cooperation is essential to address the transnational nature of scam operations
+and associated criminal infrastructure. Collective efforts can help prevent displacement, share
+intelligence, and support enforcement across jurisdictions.
+Mechanisms for timely information exchange and operational coordination should be reinforced
+at bilateral and regional levels. Regional platforms offer a basis for joint investigations and
+collaboration on high-priority cases.
+Shared research and typology development to improve situational awareness and guide risk-
+based responses. Engagement with multilateral frameworks strengthens mutual legal assistance
+and supports coordinated approaches beyond the region.
+Several of South East Asian countries are already talking about sharing fraud and scam data regionally.
+Consortium Data Sharing
+Perhaps some of the best shared bank data comes from consortiums. Consortiums are somewhat
+removed from the constraint of privacy laws, as long as the PII data is well protected and even
+anonymized in some cases. The False:Positive ratios on consortium data can typically be much better
+than on non-consortium data. Consortium data can be a great way to identify money mule accounts.
+Outseer has its own consortium solution, called Outseer Global Data Network.25 The Network “gathers
+daily signals from millions of transactions marked as fraudulent across thousands of the largest
+financial institutions worldwide. Outseer continuously monitors and tracks fraud activity across an
+extensive network of financial institutions, card issuers, and issuing processors. When a network
+member marks an activity as fraudulent in the case management application, the associated signals are
+23 https://fedpaymentsimprovement.org/wp-content/uploads/scams-information-sharing-industry-work-group-recommendations.pdf
+24 https://www.unodc.org/roseap/uploads/documents/Publications/2025/Inflection_Point_2025.pdf
+25 https://www.outseer.com/technology/outseer-global-data-network/
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+24
+shared across the network.” When I used this Network from 2007–2019, the false:positive ratio on alerts
+were always my best false:positive ratios from alerts I was receiving.
+Other vendors also have consortium data sharing that can involve 314 (b) programs and sharing
+between sending and receiving banks.
+Other Data Sharing
+GLOBAL ANTI-SCAM ALLIANCE (GASA)
+In 2024, GASA, a non-profit organization committed to fighting online scams, announced the Global
+Signal Exchange (GSE).26 The GSE is a collaborative initiative designed to fight the growing problem of
+online scams, fraud, and DNS abuse through data sharing. Together, this partnership aims to empower
+the global community in combating scams more effectively and significantly reduce their impact on
+society. Google and the DNS Research Federation (DNSRF)
+This collaboration brings together Google’s data, funding and AI capabilities, DNSRF’s cutting-edge
+technology, and GASA’s global network of stakeholders. The aim to turn the tide on scams by sharing
+data openly and taking swift action. There are now governments and four major tech companies
+contributing to the GSE.
+Here are some recent successes from the GSE project:
+• In a historic handshake, Google exchanged threat signals with Meta through the GSE. Meta reported
+that the signals were nearly 100% accurate and actionable, and moreover were new to Meta. Meta
+was able to use the signals to refine its own AI models for fighting scams and fraud
+• Google reports that the GSE has reduced its onboarding of new signals sources from six months–
+two years down to two weeks. This helps to make the fight against scams and fraud more efficient.
+• The GSE is working on a pilot project with the advertising industry to help share and identify
+suspected malvertising links.
+BANKS AND TELCOS DATA SHARING
+In a number of countries, banks and telcos are working together to identify use cases where data
+sharing makes sense. Here are a few examples
+1. The GSMA, a telco organization that unites over 1000 mobile operators and businesses across
+the ecosystem and related industries to advance innovation, and UK Finance, who represents over
+300 financial services firms in the UK, worked together to “provide a collaborative framework for
+the UK’s leading mobile network operators and banks to develop and launch Scam Signal, a new
+solution to help address Authorized Push Payment (APP) fraud in the UK.” This solution helps tell
+a bank if a customer is on a live call while doing a banking transaction.27
+2. GSMA has now created a whole set of APIs focused on security and anti-fraud measures,
+called Camara.28 In addition to ‘Scam Signal’, other examples of these APIs include SIM Swap
+information, number verification and device status. These APIs are available from mobile
+operators around the world.
+26 https://www.gasa.org/post/gasa-google-dns-research-federation-launch-global-signal-exchange
+27 https://www.gsma.com/solutions-and-impact/industries/connected-fintech/gsma_resources/mobile-and-banking-industries-join-forces-to-fight-fraud
+28 https://www.gsma.com/solutions-and-impact/gsma-open-gateway/gsma-open-gateway-api-descriptions/
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+25
+3. Australian banks have been working with telcos to better identify text messages. The SMS Sender
+ID register will be implemented in 2025 to help reduce bank impersonation scams.
+PAYMENT NETWORK DATA
+Payment network data can be most important because it can see both the sending and receiving bank
+information. In 2025, Mastercard announced a new network-agnostic solution, TRACE, “to proactively
+identify money mules and trace the dispersion of funds.” This is based on the work Mastercard does for
+the UK Faster Payment network, the first network to use TRACE. This can help more payment networks
+provide network anomaly detection around money mules.
+Mastercard announced the second network to use TRACE
+“Mastercard’s first Asia Pacific rollout of TRACE was in the Philippines in collaboration with local
+interbank network BancNet (the switch operator of local RTP service InstaPay), with BancNet
+having already onboarded 36 domestic banks. The solution allows participating financial
+institutions to quickly and extensively trace dispersed illicit funds across the RTP system,
+identify money mule activity throughout the network, and proactively highlight suspected money
+laundering accounts.”
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+26
+CONCLUSION
+Data sharing is ever so important. And there are so many ways data can be effectively shared to
+fight the scammers, subject to government regulation and privacy laws. Often, we have seen it take
+government legislation to allow proper bank fraud and scam data sharing. In this white paper we have
+looked at a number of ways bank fraud and scam data can be shared:
+• Banks sharing data between themselves.
+• Banks sharing data with a third party set up to be an approved/regulated data repository.
+• Banks sharing data with national anti-scam centers and vis versa
+• Vendors creating data consortiums within its customer base.
+• Payment network operators using internal network data.
+• Countries sharing fraud and scam data within a geographic region.
+Yet, in many countries, bank fraud and scam data sharing is quite limited or non-existent. The US is one
+of those countries. What is so impressive is the number of countries moving forward with bank data
+sharing, especially in the UK, Australia, and Southeast Asia.
+Banks sharing fraud and scam data, including money mule account information, really makes a difference
+in the fight against scams. This is also true with vendor consortiums that can have some of the best data
+to identify and block fraud/scam transactions. And it is so impressive that Malaysia has a program for
+consumer to directly check phone and bank account data, before they execute a transaction.
+It may be that some of the best fraud and scam data sharing comes from vendor consortiums
+and ‘network’ detection solutions embedded within the network. In future the ISO20022 standard
+for electronic data interchange between financial institutions will allow different vendors to cross
+collaborate in real time before transactions are sent.
+dlRoW
+EHT
+dNuoRA
+gNIRAHS
+ATAd
+mACS
+dNA
+duARF
+//
+REPAPETIHW
+REESTUO
+27
+At Outseer, we are empowering our customers to liberate the world from digital fraud by
+providing solutions that stop fraud, not customers. Our market-leading transactional risk
+management platform is used by thousands of financial institutions around the world to
+protect millions of customer accounts and hundreds of billions of banking and card not
+present transactions annually. Leveraging proven data science, including our proprietary
+consortium data, our machine learning platform delivers the highest fraud detection rates,
+lowest false positive rates, and lowest customer intervention in the industry.
+outseer.com
+© 2025 RSA Security LLC or its affiliates. All rights reserved. Outseer believes the information in this document is accurate. The information is subject to change without notice. rev. 08-18-25"
