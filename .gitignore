@@ -1,4 +1,6 @@
 .env
 *.env
-# Python venv
+# Python virtual environment
 .venv/
+# Ignore raw binary embedding arrays
+embeddings/*.npy
