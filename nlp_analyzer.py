@@ -2,7 +2,7 @@ import pandas as pd
 import re
 from collections import Counter
 
-print("🚀 NLP Analysis Started!")
+print("NLP Analysis")
 
 # Load your data
 try:
@@ -15,7 +15,7 @@ except:
 # YOUR NLP MISSIONS:
 
 def smart_fraud_detector(text):
-    """Make this smarter - detect fraud better"""
+    """Make this smarter / detect fraud better"""
     if not isinstance(text, str):
         return 0
         
@@ -51,7 +51,7 @@ def find_trending_topics(articles):
     return Counter(meaningful_words).most_common(10)
 
 # TEST YOUR NLP SKILLS
-print("\n🎯 Testing NLP Functions:")
+print("\n Testing NLP Functions:")
 print("=" * 40)
 
 # Test on first 3 articles
@@ -60,7 +60,7 @@ for i, row in df.head(3).iterrows():
     score = smart_fraud_detector(content)
     summary = make_summary(content)
     
-    print(f"\n📰 Article {i+1}:")
+    print(f"\n Article {i+1}:")
     print(f"   Title: {row['title'][:50]}...")
     print(f"   Fraud Score: {score}")
     print(f"   Summary: {summary[:100]}...")
@@ -72,4 +72,4 @@ if 'content' in df.columns:
     for word, count in topics[:5]:
         print(f"   {word}: {count} times")
 
-print("\n✅ Ready to improve these NLP functions!")
+print("\n Ready to improve these NLP functions!")
