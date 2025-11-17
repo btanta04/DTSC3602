@@ -7,3 +7,6 @@ pandas
 pdfplumber
 sentence-transformers
 pyarrow
+requests
+beautifulsoup4
+pandas
