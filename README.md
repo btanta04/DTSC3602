@@ -19,5 +19,59 @@ A Streamlit dashboard was then built to allow analysts or future stakeholders to
 
 In summary: Highlighting the potential of data science to support real cyber risk analysis. 
 
+git clone https://github.com/btanta04/DTSC3602
+cd DTSC3602
+
+git checkout nlp-analysis
+
+Branch              Purpose
+main            Final and Merged work
+nlp-analysis    Fraud detection using NLP & embeddings
+Scraper-test    Web scraping modules
+dashboard       Streamlit UI development
+
+# Clone the repo
+git clone https://github.com/btanta04/DTSC3602
+cd DTSC3602
+git checkout nlp-analysis
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Setup environment variables
+cp example.env .env
+
+# Run the Streamlit dashboard
+streamlit run dashboard.py
+
+
+
+GEMINI_API_KEY=your_api_key_here
+SCRAPER_MODE=gemini     # or bs4
+MODEL_NAME=all-mini-L6-v2
+
+
 
 USAA Inspired problem -> Data Scraping -> AI Summaries -> NLP Exploratory Analysis -> BERTopic Modeling -> Embeddings -> Streamlit Visualization
+
+
+Folder Structure
+
+fraud-detection/
+│── data/
+│   ├── fraud_articles.csv
+│   ├── outseer_articles.csv
+│   ├── articles_with_smart_summaries.csv
+│── embeddings/
+│   └── *.npy
+│── bs4Scraper.py
+│── aiscrapper.py
+│── embed_articles.py
+│── pdfscraper.py
+│── nlp_analyzer.py
+│── nlp_summarizer.py
+│── dashboard.py
+│── requirements.txt
+│── README.md
+│── README_NLP.md
+
