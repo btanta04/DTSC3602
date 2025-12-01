@@ -48,15 +48,13 @@ streamlit run dashboard.py
 
 ![Fraud & Scam Analyzer Dashboard](https://github.com/user-attachments/assets/8ab48fe8-31a3-4489-b91c-a7e2a51873e5)
 
-## Public Demo Analytics & Findings
+## Public Demo Analytics & Findings!
 
 ### Top Fraud-Related Keywords
-![Top Keywords] (https://github.com/user-attachments/assets/16d90cb9-3c02-43dd-ac61-2d67c173bc4a)
-
+![Top Keywords](https://github.com/user-attachments/assets/16d90cb9-3c02-43dd-ac61-2d67c173bc4a)
 
 ### Fraud Likelihood Distribution  
-![Fraud Scores](PASTE-YOUR-DISTRIBUTION-SCREENSHOT-URL-HERE)
+![Fraud Scores](https://github.com/user-attachments/assets/cd5a550f-9823-4048-a07b-84a65619948c)
 
 ### Publication Timeline
-![Articles Timeline](PASTE-YOUR-TIMELINE-SCREENSHOT-URL-HERE)
-
+![Articles Timeline](https://github.com/user-attachments/assets/85f99451-1957-4f11-8c8e-6b2b82f74040)
