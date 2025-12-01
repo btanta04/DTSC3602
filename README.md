@@ -1,4 +1,4 @@
-# Fraud Risk Analyst 
+# Fraud Risk Analysis
 
 **GitHub Repository:** https://github.com/btanta04/DTSC3602
 
@@ -8,8 +8,6 @@
 - Jorge Andrade
 - Alli Borland
 - Bisher Tanta
-
-![Fraud & Scam Analyzer Dashboard](https://github.com/user-attachments/assets/8ab48fe8-31a3-4489-b91c-a7e2a51873e5)
 
 
 ## Project Overview
@@ -46,4 +44,19 @@ echo "GEMINI_API_KEY=your_actual_gemini_key_here" > .env
 # 4. Run the Streamlit dashboard
 streamlit run dashboard.py
 
+## Application Demo 
+
+![Fraud & Scam Analyzer Dashboard](https://github.com/user-attachments/assets/8ab48fe8-31a3-4489-b91c-a7e2a51873e5)
+
+## Public Demo Analytics & Findings
+
+### Top Fraud-Related Keywords
+![Top Keywords] (https://github.com/user-attachments/assets/16d90cb9-3c02-43dd-ac61-2d67c173bc4a)
+
+
+### Fraud Likelihood Distribution  
+![Fraud Scores](PASTE-YOUR-DISTRIBUTION-SCREENSHOT-URL-HERE)
+
+### Publication Timeline
+![Articles Timeline](PASTE-YOUR-TIMELINE-SCREENSHOT-URL-HERE)
 
