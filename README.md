@@ -9,7 +9,8 @@
 - Alli Borland
 - Bisher Tanta
 
-![Fraud & Scam Analyzer Dashboard](<img width="807" height="435" alt="Screenshot 2025-11-30 223452" src="https://github.com/user-attachments/assets/f94b6887-0200-4941-b0d6-f5c69e37b565" />)
+![Fraud & Scam Analyzer Dashboard](https://github.com/user-attachments/assets/8ab48fe8-31a3-4489-b91c-a7e2a51873e5)
+
 
 ## Project Overview
 This project explores the intersection of cybersecurity, NLP, and applied data science, using real world fraud related datasets to simulate industry level fraud detection scenarios. The work was developed as part of a collaborative academic initiative where teams were tasked with exploring analytical approaches that could aid financial institutions such as USAA in identifying emerging fraud patterns across digital platforms. 
