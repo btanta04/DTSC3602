@@ -4,10 +4,10 @@
 
 ## Authors: 
 
-Tyler Buck
-Jorge Andrade
-Alli Borland
-Bisher Tanta
+- Tyler Buck
+- Jorge Andrade
+- Alli Borland
+- Bisher Tanta
 
 ## Project Overview
 This project explores the intersection of cybersecurity, NLP, and applied data science, using real world fraud related datasets to simulate industry level fraud detection scenarios. The work was developed as part of a collaborative academic initiative where teams were tasked with exploring analytical approaches that could aid financial institutions such as USAA in identifying emerging fraud patterns across digital platforms. 
@@ -22,9 +22,9 @@ To uncover deeper fraud trends, BERTopic was used to perform unsupervised topic 
 
 In summary: Highlighting the potential of data science to support real cyber risk analysis. 
 
+# 1. Clone the Repository
 git clone https://github.com/btanta04/DTSC3602
 cd DTSC3602
-
 git checkout nlp-analysis
 
 Branch              Purpose
@@ -33,18 +33,14 @@ nlp-analysis    Fraud detection using NLP & embeddings
 Scraper-test    Web scraping modules
 dashboard       Streamlit UI development
 
-# Clone the repo
-git clone https://github.com/btanta04/DTSC3602
-cd DTSC3602
-git checkout nlp-analysis
 
-# Install dependencies
+# 2. Install dependencies
 pip install -r requirements.txt
 
-# Setup environment variables
+# 3. Setup environment variables
 cp example.env .env
 
-# Run the Streamlit dashboard
+# 4. Run the Streamlit dashboard
 streamlit run dashboard.py
 
 
