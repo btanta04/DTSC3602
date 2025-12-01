@@ -1,12 +1,12 @@
 trafilatura
 google-generativeai
 python-dotenv
-requests
 beautifulsoup4
 pandas
 pdfplumber
 sentence-transformers
 pyarrow
 requests
-beautifulsoup4
-pandas
+streamlit
+scikit-learn
+altair
