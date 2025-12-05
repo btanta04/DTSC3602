@@ -5,12 +5,22 @@ import altair as alt
 from pathlib import Path
 
 # =====================================================
-# PATHS
+# PATHS (LOCAL + MODAL FRIENDLY)
 # =====================================================
 
-EMBED_PARQUET = Path("embeddings/outseer_articles_with_embeddings.parquet")
-RAW_CSV = Path("outseer_articles.csv")
-KW_CSV = Path("bertopic_keywords_weights.csv")
+# Directory where this script lives (works locally)
+LOCAL_BASE = Path(__file__).resolve().parent
+
+# If running on Modal, files are under /root
+if Path("/root").exists():
+    BASE = Path("/root")
+else:
+    BASE = LOCAL_BASE
+
+EMBED_PARQUET = BASE / "embeddings" / "outseer_articles_with_embeddings.parquet"
+RAW_CSV = BASE / "outseer_articles.csv"
+KW_CSV = BASE / "bertopic_keywords_weights.csv"
+
 
 # =====================================================
 # LOAD DATA
@@ -153,7 +163,7 @@ if page == "Overview":
     # ----------------------------------------------
     # Top Keywords (from BERTopic fraud keywords)
     # ----------------------------------------------
-    st.subheader("Top Fraud-Related Keywords (BERTopic)")
+    st.subheader("Top Fraud-Related Keywords")
 
     if not kw_df.empty and "keyword" in kw_df.columns and "weight" in kw_df.columns:
         # Aggregate weights across topics
