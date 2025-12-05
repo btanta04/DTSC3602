@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fraud Risk Analysis
 
 **GitHub Repository:** https://github.com/btanta04/DTSC3602
