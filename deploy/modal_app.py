@@ -9,7 +9,7 @@ app = modal.App(name="outseer-streamlit-app")
 
 BASE_DIR = Path(__file__).parent
 
-# Local paths (on your laptop)
+# Local paths 
 streamlit_local = BASE_DIR / "finalstreamlit.py"
 articles_local = BASE_DIR / "outseer_articles.csv"
 embeddings_local = BASE_DIR / "embeddings"
@@ -30,7 +30,9 @@ image = (
         "pandas",
         "numpy",
         "altair",
-        "pyarrow",   # for read_parquet
+        "pyarrow", 
+        "bertopic",  
+        "scikit-learn",
     )
     .add_local_file(streamlit_local, streamlit_script_remote_path)
     .add_local_file(articles_local, "/root/outseer_articles.csv")
@@ -50,5 +52,4 @@ def serve():
         f"--server.enableCORS=false "
         f"--server.enableXsrfProtection=false"
     )
-    # Use Popen, just like Modal's own example
     subprocess.Popen(cmd, shell=True)
